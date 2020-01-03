@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':class01'
 rootProject.name='Android Batch 002 Master'
